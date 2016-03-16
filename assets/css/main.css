@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Electrolize);
+@import url(https://fonts.googleapis.com/css?family=Finger+Paint);
+
+body {
+	background-image: url("../img/background.gif");
+	color: rgba(255,255,255,1);
+}
+.container {
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 15%;
+	padding: 25px;
+	text-align: center;
+	border: 1px solid rgba(255,255,255,0.5);
+	background-color: rgba(0,0,0,0.75);
+	font-family: 'Electrolize', sans-serif;;
+}
+
+h3 {
+	font-family: 'Finger Paint', cursive;
+}
+
+.phrase {
+	color: rgba(255,255,255,0.7);
+}
+
+.author {
+	color: rgba(255,255,255,0.4);
+}
