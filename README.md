@@ -1,7 +1,7 @@
 # EOF Front Page
 
-Repository that consists of the front page to EOF Community.
+Repository that consists of the front page to EOF Club.
 
-EOF Community: [http://eofcommunity.com][eof]
+EOF Club: [http://eofclub.com][eof]
 
-[eof]: http://eofcommunity.com
+[eof]: http://eofclub.com
